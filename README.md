@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Emmanuel, a passionate software developer and engineer.<br>I’m currently diving into Golang and system design, while sharpening my expertise in Laravel.<br>I love building, learning, and exploring new technologies, and I’m always open to collaborating with fellow developers on exciting projects.<br><br>When I’m not coding, you’ll probably find me on the soccer field or immersed in video games, because problem-solving isn’t limited to code alone!
+<b>Hi, I’m Emmanuel 👋,</b> a passionate software developer and engineer.<br>I’m currently diving into Golang and system design, while sharpening my expertise in Laravel.<br>I love building, learning, and exploring new technologies, and I’m always open to collaborating with fellow developers on exciting projects.<br><br>When I’m not coding, you’ll probably find me on the soccer field or immersed in video games, because problem-solving isn’t limited to code alone!
 
 
 ## 🌐 Socials:
